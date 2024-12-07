@@ -1,0 +1,10 @@
+framework module html_to_image {
+  umbrella header "html_to_image-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module html_to_image.__Swift {
+  exclude header "html_to_image-Swift.h"
+}

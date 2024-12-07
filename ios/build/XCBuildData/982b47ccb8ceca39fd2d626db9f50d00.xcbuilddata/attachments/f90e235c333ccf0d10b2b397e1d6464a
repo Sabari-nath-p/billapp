@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/bill/build/ios/Release-iphoneos/downloadsfolder/downloadsfolder.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/downloadsfolder.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/bill/build/ios/Release-iphoneos/downloadsfolder/downloadsfolder.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "downloadsfolder-Swift.h",
+      'external-contents': "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/downloadsfolder.build/unextended-interface-header.h",
+    }]
+    }]
+}

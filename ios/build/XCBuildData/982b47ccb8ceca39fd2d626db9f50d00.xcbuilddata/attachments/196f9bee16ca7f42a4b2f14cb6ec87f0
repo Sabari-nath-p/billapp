@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master.d",
+    "diagnostics" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master.dia",
+    "emit-module-dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/html_to_image-master.swiftdeps"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/html_to_image-1.0.0+1/ios/Classes/HtmlToImagePlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/HtmlToImagePlugin.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/HtmlToImagePlugin.bc",
+    "object" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_image.build/Objects-normal/arm64/HtmlToImagePlugin.o"
+  }
+}

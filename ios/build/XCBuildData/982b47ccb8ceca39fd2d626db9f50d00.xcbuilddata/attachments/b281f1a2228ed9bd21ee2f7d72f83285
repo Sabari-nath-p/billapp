@@ -1,0 +1,5 @@
+ extern const unsigned char html_to_imageVersionString[];
+ extern const double html_to_imageVersionNumber;
+
+ const unsigned char html_to_imageVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:html_to_image  PROJECT:Pods-1" "\n";
+ const double html_to_imageVersionNumber __attribute__ ((used)) = (double)1.;

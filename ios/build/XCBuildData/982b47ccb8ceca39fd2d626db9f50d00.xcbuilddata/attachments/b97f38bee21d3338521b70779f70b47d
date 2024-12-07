@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master.swiftconstvalues",
+    "dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master.d",
+    "diagnostics" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master.dia",
+    "emit-module-dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/html_to_pdf-master.swiftdeps"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/html_to_pdf-0.8.1/ios/Classes/FileHelper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/FileHelper.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/FileHelper.bc",
+    "object" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/FileHelper.o"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/html_to_pdf-0.8.1/ios/Classes/PDFCreator.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/PDFCreator.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/PDFCreator.bc",
+    "object" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/PDFCreator.o"
+  },
+  "/Users/sabarinathp/.pub-cache/hosted/pub.dev/html_to_pdf-0.8.1/ios/Classes/SwiftHtmlToPdfPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/SwiftHtmlToPdfPlugin.o",
+    "llvm-bc" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/SwiftHtmlToPdfPlugin.bc",
+    "object" : "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/Objects-normal/arm64/SwiftHtmlToPdfPlugin.o"
+  }
+}

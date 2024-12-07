@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/bill/build/ios/Release-iphoneos/html_to_pdf/html_to_pdf.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/sabarinathp/Works/bill/build/ios/Release-iphoneos/html_to_pdf/html_to_pdf.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "html_to_pdf-Swift.h",
+      'external-contents': "/Users/sabarinathp/Works/bill/ios/build/Pods.build/Release-iphoneos/html_to_pdf.build/unextended-interface-header.h",
+    }]
+    }]
+}

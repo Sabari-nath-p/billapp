@@ -1,0 +1,5 @@
+ extern const unsigned char html_to_pdfVersionString[];
+ extern const double html_to_pdfVersionNumber;
+
+ const unsigned char html_to_pdfVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:html_to_pdf  PROJECT:Pods-1" "\n";
+ const double html_to_pdfVersionNumber __attribute__ ((used)) = (double)1.;
